@@ -154,3 +154,18 @@ validate before using.
 Use GitHub issues for filing bugs. Follow
 [@jorikdelaporik](https://twitter.com/jorikdelaporik) on Twitter for occasional
 updates around the project.
+
+## Compiled version
+A compiled version is available on https://github.com/DavidBruchmann/transmat.js.  
+It was just copy paste according to the authors' hints:  
+
+> 
+> Install the library from [NPM](https://npmjs.com/transmat) (version 0.2.1).
+> ```
+> npm install transmat
+> ```
+> Alternatively, you can load the 
+> [index.umd.js](https://unpkg.com/transmat/lib/index.umd.js) UMD build from a
+> JavaScript CDN  like UNPKG. The library is exported to the transmat object 
+> namespace.
+>
